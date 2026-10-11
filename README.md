@@ -33,7 +33,6 @@ These days I build AI agents, tool-calling and local-first assistants.
 | 04 | **[timmy-plugin-shell](https://github.com/omatsetyadi/timmy-plugin-shell)** | Shell commands with read/mutate risk classification | TypeScript |
 | 05 | **[tool-call-machine](https://github.com/omatsetyadi/tool-call-machine)** | Framework-agnostic OS and app-control operations for agents | TypeScript |
 | 06 | **[agent-tool-calls](https://github.com/omatsetyadi/agent-tool-calls)** | Reusable tool implementations, zero agent-framework dependencies | TypeScript |
-| 07 | **[omat-setyadi-dev](https://github.com/omatsetyadi/omat-setyadi-dev)** | This catalogue's home: a printed-catalogue portfolio with a three.js record shelf | Next.js · three.js |
 
 ### Discography
 
